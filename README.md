@@ -1,4 +1,6 @@
-Loan Calculator
+**Loan Calculator**
+
+
 Welcome to the Loan Calculator project! This Python program calculates the monthly payment amount for a fixed-rate loan based on the loan amount, annual interest rate, and loan term in months.
 
 Table of Contents
